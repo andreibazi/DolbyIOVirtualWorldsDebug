@@ -1,0 +1,15 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1431C30C-4650-DEB8-FEAC-2F9F13F440D0}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DolbyIODebug",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+	]
+}
